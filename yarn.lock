@@ -1864,9 +1864,9 @@
     eslint-plugin-react-hooks "^4.0.0"
 
 "@pancakeswap-libs/uikit@npm:@zetherz/uikit":
-  version "0.10.5"
-  resolved "https://registry.yarnpkg.com/@zetherz/uikit/-/uikit-0.10.5.tgz#f70399c8e207f94050c3d40e21ecceeb4b5dae21"
-  integrity sha512-78gh+JBu9COhBUwY2wBWugP6zMcbuv/vvK1ItoJDKWAChNlN91KyTMYaS0G8aN42vgZ/S4qrW/yfaysBR1qV0w==
+  version "0.10.6"
+  resolved "https://registry.yarnpkg.com/@zetherz/uikit/-/uikit-0.10.6.tgz#a8171bcd8eb165d82c9704e633924cef02915277"
+  integrity sha512-kVfdlyHCIQMvAfXB4oX8KuJqRSNHPVHwUHi7aRTrim0GF64SO3d8LSC5RXPVKM0F1U3i+v5heq0bcZv3ty/lFw==
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
